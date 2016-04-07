@@ -13,6 +13,5 @@ All the code is in one single file, without any dependencies. There are two func
 
 This is a render of the resulting mesh:
 
-![sphere](https://cloud.githubusercontent.com/assets/2310732/9207777/f78b7822-406f-11e5-9a14-98044c06ad46.jpg)
+![sphere](https://cloud.githubusercontent.com/assets/2310732/14340850/f4720c22-fc8b-11e5-9d63-28790e0f5d21.jpg)
 
-There are some strange spikes on some cubes, but the result is overall ok.
